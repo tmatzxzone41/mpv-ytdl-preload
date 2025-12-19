@@ -1,6 +1,7 @@
 # mpv-ytdl-preload
 ## Mpv script to preload your stream playlist by downloading it as a temp file (support onedrive-index)  
 Work for onedrive-index, you can just drag and drop the direct link to mpv and it will preload it as a queue as much as you want  
+Work well with [thumbfast](https://github.com/po5/thumbfast) after it's done preload
 
 Edit the script to ur liking,  
 
